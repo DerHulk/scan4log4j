@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scan4log4j", "Scan4log4j\Scan4log4j.csproj", "{7FB4F083-B199-45EF-B932-781F8AE122E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scan4log4j.Tests", "Sacn4log4j.Tests\Scan4log4j.Tests.csproj", "{C381297F-DC1C-425F-9111-089FCDC33EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB4F083-B199-45EF-B932-781F8AE122E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB4F083-B199-45EF-B932-781F8AE122E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB4F083-B199-45EF-B932-781F8AE122E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB4F083-B199-45EF-B932-781F8AE122E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C381297F-DC1C-425F-9111-089FCDC33EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C381297F-DC1C-425F-9111-089FCDC33EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C381297F-DC1C-425F-9111-089FCDC33EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C381297F-DC1C-425F-9111-089FCDC33EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA7FDD3C-DB36-4446-A6C1-9A7078833F7B}
+	EndGlobalSection
+EndGlobal
